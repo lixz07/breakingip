@@ -1,0 +1,14 @@
+Using the tool is simple:
+
+cd breakingip ( file location )
+------------------------------------------------
+ls:
+breakingip.py ( Remember you must have python or python3 installed on your machine )
+
+--------------------------------------------------
+
+python or python3 breakingip.py
+
+---------------------------------------------------
+
+done be happy...
