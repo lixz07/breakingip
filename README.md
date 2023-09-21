@@ -25,7 +25,10 @@ Request Timeout: A timeout of 10 seconds has been added to each HTTP request to 
 Response Code Check: The HTTP request response code is now checked, and if the code is 200 (OK), the latency time is recorded. This improves accuracy in detecting target connectivity.
 
 Entry of Number of Requests per Packet: An option has been added for the user to specify how many requests should be included in each sending packet. This allows greater flexibility in configuring requests.
-![Capturar](https://github.com/lixz07/breakingip/assets/138683122/0c039d28-36c6-4680-947f-7fe3b994084c)
+
+![Capturar](https://github.com/lixz07/breakingip/assets/138683122/42c2f34b-463d-4676-980f-d9898f0dc4f0)
+
+
 
 Last update: 21/09/2023
 
